@@ -9,5 +9,5 @@ The pipeline follows the Medallion Architecture and is designed to support incre
 The solution ingests customer, product, store, and sales data from Amazon S3, processes the data through Bronze, Silver, and Gold layers in Databricks, and exposes the curated Gold layer to Power BI for business intelligence and reporting.
 
 ### Architecture
-![Databricks Architecture](architecture_diagram/architecture_diagram.png)
+![Databricks Architecture](architecture_diagraram/architecture_diagram.png)
 
