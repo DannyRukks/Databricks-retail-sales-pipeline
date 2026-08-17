@@ -13,12 +13,12 @@ The solution ingests customer, product, store, and sales data from Amazon S3, pr
 
 
 ### 🔧 Technologies Used
-**Amazon S3** — Cloud data lake and source storage
-**Databricks** — Data engineering and processing
-**PySpark** — Distributed data processing
-**Auto Loader** — Incremental file ingestion
-**Delta Lake** — Reliable storage and transactional processing
-**Databricks SQL** — Data serving
-**SQL** — Transformation and incremental loading
-**Power BI** — Data visualization and reporting
-**Databricks Jobs** — Pipeline orchestration
+- **Amazon S3** — Cloud data lake and source storage
+- **Databricks** — Data engineering and processing
+- **PySpark** — Distributed data processing
+- **Auto Loader** — Incremental file ingestion
+- **Delta Lake** — Reliable storage and transactional processing
+- **Databricks SQL** — Data serving
+- **SQL** — Transformation and incremental loading
+- **Power BI** — Data visualization and reporting
+- **Databricks Jobs** — Pipeline orchestration
