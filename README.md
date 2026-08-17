@@ -132,7 +132,6 @@ The complete pipeline is orchestrated using Databricks Jobs. The job contains th
 The tasks are configured with dependencies so that: Silver runs only after Bronze succeeds. Gold runs only after Silver succeeds. The complete pipeline can run automatically according to a schedule. This removes the need to manually execute individual notebooks.
 ![Databricks pipeline](databricks-projects/pipeline/pipeline.jpg)
 
-
 ### 📈 Business Value
 The solution transforms raw retail data into a reliable analytical platform that enables users to:
 - Monitor sales performance
