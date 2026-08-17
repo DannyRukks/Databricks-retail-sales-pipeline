@@ -22,3 +22,52 @@ The solution ingests customer, product, store, and sales data from Amazon S3, pr
 - **SQL** — Transformation and incremental loading
 - **Power BI** — Data visualization and reporting
 - **Databricks Jobs** — Pipeline orchestration
+
+### 📂 Source Data
+
+The pipeline processes four primary datasets:
+
+#### Customers
+
+Contains customer information such as:
+
+- CustomerID
+- CustomerName
+- Region
+- CustomerSegment
+- SignupDate
+
+#### Products
+
+Contains:
+
+- ProductID
+- ProductName
+- Category
+- Brand
+- UnitPrice
+
+#### Stores
+
+Contains:
+
+- StoreID
+- StoreName
+- City
+- Region
+- StoreType
+
+#### Sales
+
+Contains transactional information including:
+
+- SaleID
+- CustomerID
+- ProductID
+- StoreID
+- SaleDate
+- Quantity
+- UnitPrice
+- Discount
+- OrderStatus
+- PaymentMethod
