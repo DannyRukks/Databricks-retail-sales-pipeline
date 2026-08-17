@@ -1,6 +1,6 @@
-### Retail Sales Data Engineering Pipeline
+# Retail Sales Data Engineering Pipeline
 
-#### 📌 Project Overview
+### 📌 Project Overview
 
 This project implements an end-to-end cloud data engineering pipeline for processing retail sales data using Amazon S3, Databricks, Delta Lake, and Power BI.
 
