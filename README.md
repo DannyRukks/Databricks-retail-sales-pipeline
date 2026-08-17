@@ -8,6 +8,17 @@ The pipeline follows the Medallion Architecture and is designed to support incre
 
 The solution ingests customer, product, store, and sales data from Amazon S3, processes the data through Bronze, Silver, and Gold layers in Databricks, and exposes the curated Gold layer to Power BI for business intelligence and reporting.
 
-### Architecture
+### 🏗️ Architecture
 ![Retail Sales Data Engineering Architecture](databricks-projects/architecture/architecture_diagram.png)
 
+
+### 🔧 Technologies Used
+**Amazon S3** — Cloud data lake and source storage
+**Databricks** — Data engineering and processing
+**PySpark** — Distributed data processing
+**Auto Loader** — Incremental file ingestion
+**Delta Lake** — Reliable storage and transactional processing
+**Databricks SQL** — Data serving
+**SQL** — Transformation and incremental loading
+**Power BI** — Data visualization and reporting
+**Databricks Jobs** — Pipeline orchestration
