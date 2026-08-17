@@ -1,0 +1,209 @@
+ProductID,ProductName,Category,Brand,UnitPrice
+P0001,Mouse,Office,SmartPlus,1035.98
+P0002,Power Bank,electronics,Prime,287.43
+P0003,Desk Lamp,Home,SmartPlus,627.55
+P0004,Power Bank,Accessories,TechPro,1498.12
+P0005,Monitor,Office,TechPro,305.43
+P0006,Keyboard,Home,Nova,1225.09
+P0007,Tablet,Electronics,SmartPlus,113.26
+P0008,Desk Lamp,Mobile,,1262.91
+P0009,Mouse,Mobile,Vision,151.18
+P0010,Desk Lamp,Mobile,TechPro,
+P0011, Blender ,Electronics,TechPro,154.26
+P0012,Mouse,Office,Nova,1082.82
+P0013, Printer ,Electronics,Prime,
+P0014,Kettle,Mobile,Prime,245.67
+P0015,Smartphone,Office,Nova,1128.09
+P0016, Office Chair ,Mobile,Vision,993.21
+P0017,Blender,Electronics,Nova,150.78
+P0018,Smartphone,Electronics,Prime,873.33
+P0019,Desk Lamp,Accessories,TechPro,712.6
+P0020,Laptop,Accessories,Nova,1324.54
+P0021,Printer,Mobile,Prime,1310.28
+P0022,Power Bank,Accessories,Nova,648.35
+P0023,Desk Lamp,Office,Vision,838.07
+P0024,Smartphone,Mobile,TechPro,609.05
+P0025,Printer,Accessories,SmartPlus,330.22
+P0026,Blender,Home,Nova,1076.15
+P0027,Printer,Office,SmartPlus,1023.33
+P0028,Monitor,Accessories,Vision,147.56
+P0029,Keyboard,Electronics,Nova,1223.65
+P0030,Tablet,Office,TechPro,1371.7
+P0031,Tablet,Accessories,SmartPlus,625.5
+P0032,Monitor,Office,TechPro,486.51
+P0033,Power Bank,Mobile,Nova,332.16
+P0034,Office Chair,Electronics,,1185.38
+P0035,Laptop,Accessories,Nova,306.27
+P0036,Laptop,Office,Prime,1283.34
+P0037,Laptop,Mobile,TechPro,515.33
+P0038,Tablet,Accessories,TechPro,310.82
+P0039,Monitor,Mobile,TechPro,1494.92
+P0040,Kettle,Electronics,TechPro,1288.34
+P0041,Mouse,Mobile,SmartPlus,537.4
+P0042,Office Chair,Electronics,Nova,354.17
+P0043,Desk Lamp,Electronics,TechPro,1026.99
+P0044,Desk Lamp,Office,Nova,917.22
+P0045,Keyboard,Electronics,TechPro,1246.94
+P0046,Desk Lamp,Office,Prime,923.53
+P0047,Blender,Electronics,Prime,619.99
+P0048,Monitor,Home,SmartPlus,645.62
+P0049,Mouse,Office,SmartPlus,469.34
+P0050,Blender,Home,Vision,341.87
+P0051, Monitor ,Office,TechPro,531.74
+P0052,Laptop,Home,TechPro,1036.58
+P0053, Printer ,Mobile,SmartPlus,1494.53
+P0054,Monitor,Mobile,Prime,
+P0055,Printer,Electronics,Vision,321.11
+P0056,Kettle,Mobile,SmartPlus,1184.37
+P0057,Desk Lamp,Office,Prime,205.47
+P0058,Keyboard,Accessories,Vision,1326.06
+P0059,Keyboard,Home,Vision,413.74
+P0060,Power Bank,Office,SmartPlus,734.63
+P0061,Mouse,Home,Prime,235.55
+P0062,Mouse,Office,Prime,760.27
+P0063,Mouse,Accessories,Vision,1438.92
+P0064,Smartphone,Accessories,Prime,1300.82
+P0065, Tablet ,Accessories,TechPro,590.94
+P0066,Smartphone,Mobile,TechPro,155.82
+P0067, Mouse ,Office,Prime,922.8
+P0068, Desk Lamp ,Accessories,Prime,
+P0069, Office Chair ,Electronics,TechPro,1360.24
+P0070,Desk Lamp,Mobile,Prime,1138.59
+P0071,Power Bank,Electronics,TechPro,1337.13
+P0072,Kettle,Accessories,Vision,1114.32
+P0073,Printer,Mobile,SmartPlus,563.83
+P0074,Keyboard,Accessories,,1463.5
+P0075,Printer,Electronics,Prime,429.11
+P0076,Printer,Office,Nova,710.15
+P0077,Keyboard,mobile,Vision,941.63
+P0078,Tablet,Home,Nova,913.88
+P0079,Mouse,Electronics,TechPro,1031.97
+P0080,Office Chair,Home,SmartPlus,867.42
+P0081,Smartphone,Electronics,Vision,204.83
+P0082,Printer,Mobile,TechPro,1220.05
+P0083,Tablet,Electronics,TechPro,1056.34
+P0084,Tablet,Electronics,Prime,228.96
+P0085,Printer,Accessories,TechPro,986.9
+P0086,Power Bank,Electronics,SmartPlus,355.31
+P0087,Power Bank,Office,,780.65
+P0088,Desk Lamp,Electronics,Nova,695.71
+P0089,Blender,Office,Vision,284.68
+P0090,Tablet,Accessories,SmartPlus,617.49
+P0091,Office Chair,Mobile,Prime,458.98
+P0092,Power Bank,Home,TechPro,1115.18
+P0093,Desk Lamp,Home,Prime,93.95
+P0094, Tablet ,Mobile,Nova,487.71
+P0095,Laptop,Accessories,TechPro,56.48
+P0096,Monitor,Office,Vision,960.48
+P0097,Desk Lamp,Office,Vision,1378.32
+P0098,Blender,Electronics,Nova,810.69
+P0099,Mouse,Accessories,TechPro,1391.75
+P0100,Mouse,Home,Nova,914.51
+P0101,Monitor,Home,SmartPlus,1240.65
+P0102,Keyboard,electronics,Prime,764.1
+P0103,Mouse,Office,SmartPlus,1297.07
+P0104,Laptop,Home,Prime,163.18
+P0105,Printer,Home,Vision,735.18
+P0106,Kettle,accessories,,442.82
+P0107,Blender,electronics,TechPro,401.26
+P0108,Keyboard,Electronics,SmartPlus,873.72
+P0109, Office Chair ,Mobile,Prime,191.19
+P0110,Blender,Office,Nova,1364.9
+P0111,Tablet,mobile,TechPro,496.87
+P0112,Mouse,Electronics,Nova,124.9
+P0113,Office Chair,Home,TechPro,361.18
+P0114,Keyboard,Office,TechPro,553.32
+P0115,Printer,Electronics,Nova,613.75
+P0116,Keyboard,Office,Prime,33.4
+P0117,Mouse,Accessories,Vision,294.12
+P0118,Tablet,Office,SmartPlus,808.39
+P0119,Office Chair,Accessories,TechPro,413.59
+P0120,Printer,Electronics,Nova,543.91
+P0121,Printer,Office,Nova,1017.34
+P0122,Desk Lamp,Mobile,TechPro,1122.76
+P0123,Office Chair,Electronics,SmartPlus,813.88
+P0124,Keyboard,Home,Prime,638.27
+P0125,Power Bank,Accessories,Nova,646.62
+P0126,Blender,Accessories,TechPro,455.44
+P0127,Desk Lamp,Office,SmartPlus,1486.2
+P0128,Desk Lamp,Electronics,Prime,204.66
+P0129,Office Chair,mobile,Nova,1203.09
+P0130,Laptop,Office,Nova,458.35
+P0131,Keyboard,Mobile,Prime,1295.28
+P0132,Monitor,Accessories,TechPro,1403.98
+P0133,Keyboard,Home,Prime,941.62
+P0134,Mouse,Electronics,Vision,1256.39
+P0135,Monitor,electronics,Vision,1294.61
+P0136,Tablet,Accessories,Vision,
+P0137,Office Chair,Office,SmartPlus,151.89
+P0138,Kettle,Office,TechPro,1441.53
+P0139,Keyboard,Mobile,TechPro,1110.98
+P0140,Mouse,Accessories,Nova,1311.21
+P0141,Tablet,Accessories,,
+P0142,Desk Lamp,Home,TechPro,1165.46
+P0143,Power Bank,Electronics,Nova,1165.77
+P0144,Mouse,Mobile,SmartPlus,1117.13
+P0145,Mouse,Accessories,Nova,1492.82
+P0146,Smartphone,Accessories,TechPro,1391.19
+P0147,Keyboard,Office,TechPro,1335.91
+P0148,Kettle,Accessories,Prime,555.41
+P0149,Keyboard,Mobile,TechPro,274.6
+P0150,Desk Lamp,Electronics,,677.52
+P0151,Office Chair,Mobile,TechPro,36.45
+P0152,Office Chair,Office,SmartPlus,920.55
+P0153,Desk Lamp,Electronics,Prime,504.43
+P0154,Mouse,Accessories,TechPro,23.04
+P0155,Desk Lamp,Home,Vision,1413.93
+P0156,Keyboard,Mobile,Vision,640.84
+P0157,Keyboard,Accessories,TechPro,1294.09
+P0158,Power Bank,Accessories,Vision,
+P0159,Power Bank,Home,TechPro,582.17
+P0160,Power Bank,Accessories,Nova,336.42
+P0161,Keyboard,Mobile,TechPro,
+P0162,Printer,Electronics,Prime,307.63
+P0163,Laptop,Home,SmartPlus,1404.11
+P0164, Monitor ,Office,SmartPlus,1252.84
+P0165,Office Chair,Office,Nova,828.57
+P0166,Smartphone,Accessories,Prime,1098.57
+P0167, Power Bank ,Electronics,Nova,358.25
+P0168,Smartphone,Home,Prime,746.57
+P0169,Tablet,Mobile,Nova,1119.76
+P0170,Smartphone,Office,Nova,408.33
+P0171,Monitor,Mobile,Vision,601.03
+P0172,Kettle,Accessories,SmartPlus,1418.91
+P0173,Laptop,Home,Nova,665.8
+P0174,Kettle,Electronics,SmartPlus,191.58
+P0175,Smartphone,Mobile,Prime,520.36
+P0176,Keyboard,Home,Prime,339.0
+P0177,Desk Lamp,Accessories,Vision,17.26
+P0178,Keyboard,Electronics,TechPro,1442.88
+P0179,Kettle,Accessories,TechPro,626.95
+P0180, Office Chair ,Office,Vision,688.42
+P0181,Power Bank,Mobile,SmartPlus,70.39
+P0182,Power Bank,Home,TechPro,551.95
+P0183,Kettle,Accessories,,152.55
+P0184,Keyboard,Accessories,Vision,104.66
+P0185,Office Chair,Office,TechPro,844.53
+P0186,Smartphone,Mobile,Vision,1352.24
+P0187,Keyboard,Accessories,TechPro,390.16
+P0188, Office Chair ,Home,TechPro,803.11
+P0189,Laptop,accessories,Prime,644.68
+P0190,Office Chair,Electronics,Nova,952.28
+P0191,Keyboard,Office,TechPro,1380.99
+P0192,Blender,Electronics,Nova,244.28
+P0193,Laptop,home,SmartPlus,909.0
+P0194,Desk Lamp,Home,Nova,1315.05
+P0195,Smartphone,Home,SmartPlus,894.69
+P0196,Power Bank,Office,SmartPlus,501.67
+P0197,Kettle,Electronics,Prime,112.78
+P0198,Smartphone,Mobile,Prime,816.37
+P0199,Blender,Accessories,Vision,783.25
+P0200,Power Bank,Home,Prime,597.58
+P0151,Office Chair,Mobile,TechPro,36.45
+P0029,Keyboard,Electronics,Nova,1223.65
+P0014,Kettle,Mobile,Prime,245.67
+P0179,Kettle,Accessories,TechPro,626.95
+P0110,Blender,Office,Nova,1364.9
+P0169,Tablet,Mobile,Nova,1119.76
+P0178,Keyboard,Electronics,TechPro,1442.88
+P0197,Kettle,Electronics,Prime,112.78

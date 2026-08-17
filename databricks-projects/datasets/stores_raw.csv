@@ -1,0 +1,22 @@
+StoreID,StoreName,City,Region,StoreType
+ST001,Lagos Retail Store,Lagos,Lagos,Outlet
+ST002,Abuja Retail Store,Abuja,Enugu,Outlet
+ST003, Port Harcourt Retail Store ,Port Harcourt,Rivers,Outlet
+ST004,Ibadan Retail Store,Ibadan,Kano,Outlet
+ST005,Kano Retail Store,Kano,lagos,Outlet
+ST006,Benin City Retail Store,Benin City,Lagos,
+ST007,Enugu Retail Store,Enugu,Oyo,Retail
+ST008, Warri Retail Store ,Warri,Oyo,Retail
+ST009,Abeokuta Retail Store,Abeokuta,Kano,Superstore
+ST010,Kaduna Retail Store,Kaduna,Kano,Superstore
+ST011,Ilorin Retail Store,Ilorin,delta,Superstore
+ST012,Owerri Retail Store,Owerri,Kano,Retail
+ST013, Uyo Retail Store ,Uyo,Oyo,Retail
+ST014,Asaba Retail Store,Asaba,Kano,Retail
+ST015,Akure Retail Store,Akure,Kano,Superstore
+ST016,Jos Retail Store,Jos,Kano,Superstore
+ST017,Calabar Retail Store,Calabar,Oyo,Retail
+ST018,Onitsha Retail Store,Onitsha,Rivers,Superstore
+ST019,Sokoto Retail Store,Sokoto,Edo,Outlet
+ST020,Ado-Ekiti Retail Store,Ado-Ekiti,Rivers,Outlet
+ST004,Ibadan Retail Store,Ibadan,Kano,Outlet
